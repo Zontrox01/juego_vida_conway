@@ -30,10 +30,10 @@ Una interfaz gráfica completa del Juego de la Vida de Conway, hecha con `custom
 ### 2. Tipos de célula
 | Tipo | Color | Descripción |
 |---|---|---|
-| **Muerta** (🟥) | Negro | Célula muerta. Puede nacer si cumple la regla de nacimiento. |
-| **Viva** (🟩) | Verde | Célula viva que sigue las reglas de Conway. |
+| **Muerta** (🟥) | Negro  | Célula muerta. Puede nacer si cumple la regla de nacimiento. |
+| **Viva**   (🟩) | Verde  | Célula viva que sigue las reglas de Conway. |
 | **Cáncer** (⬜) | Blanco | Célula agresiva que se propaga a las vecinas muertas. |
-| **Cura** (🟦) | Azul | Célula especial que puede curar al cáncer. |
+| **Cura**   (🟦) | Azul   | Célula especial que puede curar al cáncer. |
 
 > En este modelo no existe una celda "vacía" distinta de la célula muerta: la casilla sin célula **es** una célula muerta. La opción de casillas con historia (ver más abajo) añade una distinción solo visual.
 
@@ -202,13 +202,21 @@ pip install customtkinter matplotlib pillow numpy
 ### Patrones clásicos
 Prueba a dibujar estos patrones clásicos del Juego de la Vida:
 - **Planeador (glider):** pequeño patrón que se desplaza.
+
                   ■■
+  
                   ■■
+  
 - **Parpadeador (blinker):** oscilador sencillo.
+  
                   ■■■
+  
 - **Bloque (block):** patrón estático.
+
                   ·■·
+  
                   ··■
+  
                   ■■■
 
 ### Patrones ampliados
