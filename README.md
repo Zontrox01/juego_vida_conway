@@ -213,9 +213,7 @@ Prueba a dibujar estos patrones clásicos del Juego de la Vida:
 - **Bloque (block):** patrón estático.
 
                   ·■·
-  
                   ··■
-  
                   ■■■
 
 ### Patrones ampliados
