@@ -204,7 +204,6 @@ Prueba a dibujar estos patrones clásicos del Juego de la Vida:
 - **Planeador (glider):** pequeño patrón que se desplaza.
 
                   ■■
-  
                   ■■
   
 - **Parpadeador (blinker):** oscilador sencillo.
