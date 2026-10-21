@@ -3,6 +3,13 @@
 Una interfaz gráfica completa del Juego de la Vida de Conway, hecha con `customtkinter`, con funciones ampliadas: varios tipos de célula, condiciones de contorno, estadísticas en tiempo real y **reglas de reproducción configurables desde la propia interfaz**.
 
 > **Créditos:** este proyecto está basado en el trabajo original de [HasonCode (Harrison Adams)](https://github.com/HasonCode). Esta versión añade el panel de reglas configurables, el marcado de casillas con historia, mejoras en la visibilidad de las células muertas y la traducción completa al español.
+>
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![Customtkinter](https://img.shields.io/badge/UI-CustomTkinter-green)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+
+---
 
 ## Novedades de esta versión
 
